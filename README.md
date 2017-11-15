@@ -50,6 +50,10 @@ We suggest that you begin by typing:
   npm start
 
 Happy hacking!
+
+$ git remote add origin git@github.com:rwibawa/react_01.git
+$ git branch --set-upstream-to=origin/master master
+$ git pull --allow-unrelated-histories
 ```
 
 ## 2. Tutorial
